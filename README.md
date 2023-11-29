@@ -4,6 +4,13 @@ Competition Overview:
 
 🚀 Welcome to my submission for the Kaggle competition "Natural Language Processing with Disaster Tweets." In this challenge, we delve into the fascinating world of tweets, leveraging Natural Language Processing (NLP) to distinguish between tweets about real disasters and those that aren't. The objective is to create a robust model that excels in predicting disaster-related content.
 
+Achievements:
+
+🏆 Attained an impressive F1 score of 0.79926 on the public leaderboard.
+🌟 Demonstrated the efficacy of SVM in accurately identifying disaster-related tweets.
+
+Link : https://www.kaggle.com/code/elmezianech/notebook86470c7043
+
 Solution Highlights:
 
 🔍 Data Exploration & Preprocessing:
@@ -24,11 +31,6 @@ Ensured the model comprehends the significance of each word in tweets.
 
 Employed a robust Support Vector Machine (SVM) model for classification.
 Fine-tuned hyperparameters using GridSearchCV, optimizing the SVM configuration.
-
-Achievements:
-
-🏆 Attained an impressive F1 score of 0.79926 on the public leaderboard.
-🌟 Demonstrated the efficacy of SVM in accurately identifying disaster-related tweets.
 
 Next Steps:
 
